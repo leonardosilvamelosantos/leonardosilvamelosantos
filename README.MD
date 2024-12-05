@@ -47,5 +47,5 @@
 (https://github.com/leonardosilvamelosantos/DESAFIO-CIENCIAS-DE-DADOS-PUC.git)
 
 ## 🔗 Contato
-- **LinkedIn**: [Leonardo Santos](linkedin.com/mac-and-dev)
+- **LinkedIn**: [Leonardo Santos](mac-and-dev)
 - **Email**: [lsilvamelosantos@gmail.com](mailto:lsilvamelosantos@gmail.com)
