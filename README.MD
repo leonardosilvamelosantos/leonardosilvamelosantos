@@ -44,6 +44,7 @@
 
 ## 🏆 Mencões Especiais
 - **3º Lugar - 1º Desafio de Dados PUC Minas**: Análise de dados em larga escala (SENSO IBGE 2010).
+(https://github.com/leonardosilvamelosantos/DESAFIO-CIENCIAS-DE-DADOS-PUC.git)
 
 ## 🔗 Contato
 - **LinkedIn**: [Leonardo Santos](linkedin.com/mac-and-dev)
