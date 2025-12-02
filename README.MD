@@ -1,7 +1,7 @@
 # Leonardo Santos - Computer Scientist
 
 ## 🌟 Sobre Mim
-- **Desenvolvedor Full Stack** - Automatizze
+- **Desenvolvedor Full Stack** 
 - **Estudante de Ciência da Computação** (6/8) - PUC Minas
 - **Técnico em Informática** - LS Informática
 
