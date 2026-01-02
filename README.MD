@@ -2,7 +2,7 @@
 
 ## 🌟 Sobre Mim
 - **Desenvolvedor Full Stack** 
-- **Estudante de Ciência da Computação** (6/8) - PUC Minas
+- **Estudante de Ciência da Computação** (7/8) - PUC Minas
 - **Técnico em Informática** - LS Informática
 
 ## 🛠️ Sistemas
